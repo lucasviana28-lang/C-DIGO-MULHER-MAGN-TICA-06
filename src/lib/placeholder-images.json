@@ -1,0 +1,39 @@
+{
+  "reconciliation": {
+    "src": "https://i.imgur.com/deESEAz.png",
+    "width": 800,
+    "height": 534,
+    "alt": "Homem apaixonado e reconciliado com sua parceira.",
+    "hint": "couple love"
+  },
+  "testimonials": [
+    {
+      "src": "https://i.imgur.com/6WnlkIK.png",
+      "width": 800,
+      "height": 1000,
+      "alt": "Depoimento de aluna 1",
+      "hint": "testimonial 1"
+    },
+    {
+      "src": "https://i.imgur.com/s0Mo6Ai.png",
+      "width": 800,
+      "height": 1000,
+      "alt": "Depoimento de aluna 2",
+      "hint": "testimonial 2"
+    },
+    {
+      "src": "https://i.imgur.com/3tNspBa.png",
+      "width": 800,
+      "height": 1000,
+      "alt": "Depoimento de aluna 3",
+      "hint": "testimonial 3"
+    },
+    {
+      "src": "https://i.imgur.com/di2zxuU.png",
+      "width": 800,
+      "height": 1000,
+      "alt": "Depoimento de aluna 4",
+      "hint": "testimonial 4"
+    }
+  ]
+}
